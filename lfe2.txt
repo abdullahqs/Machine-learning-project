@@ -1,0 +1,33 @@
+
+intial wiegths
+[[ 0.1401889 ]
+ [-0.2157551 ]
+ [-0.121661  ]
+ [ 0.18990062]
+ [-0.23844499]
+ [-0.12413792]
+ [ 0.26744515]]
+before training
+
+matrix before training
+confusion matrix 
+[[3. 1.]
+ [0. 0.]]
+Percentage Correct: 
+75.0
+after training
+Iteration  0   Error 0.41366555785830117
+wiegths after training
+[[-3.30026781]
+ [ 2.77045728]
+ [-1.01728512]
+ [ 3.64634479]
+ [-6.38553724]
+ [-1.01206966]
+ [-0.15150562]]
+matrix after training
+confusion matrix 
+[[3. 0.]
+ [0. 1.]]
+Percentage Correct: 
+100.0
